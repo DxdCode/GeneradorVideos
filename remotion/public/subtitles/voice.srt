@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:03,000
+Hola, este es un texto generado automáticamente con ElevenLabs.
+
+2
+00:00:03,000 --> 00:00:06,000
+Aquí va la segunda frase.
+
